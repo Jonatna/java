@@ -9,6 +9,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <exec.mainClass>max.vanach.lesson_1.Lesson_1</exec.mainClass>
+        <exec.mainClass>zadamnie1.Zadanie1.Zadanie1</exec.mainClass>
     </properties>
 </project>
